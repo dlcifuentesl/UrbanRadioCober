@@ -25,6 +25,4 @@ Tracker: Browse and report bugs.
 
 #License
 
-Free
-
-Free Software, Hell Yeah!
+Free Software!
