@@ -7,13 +7,13 @@ Urban RadioCober a plugin for Quantum GIS using the propagation model ITU -R 123
 
 With UrbanRadioCober you can:
 
->Calculates the propagation losses and the impact.
+>Calculates the propagation losses
 
->Barriers on the radiated signal is.
+>The impact barriers on the radiated signal is.
 
 >Applying engineering design software for subsequent implementation.
 
-Author: Mario Salazar, Jhon Castaneda,  Leonardo Cifuentes.
+Author: Mario Salazar, Jhon Castaneda, Leonardo Cifuentes.
 
 Plugin home page: https://github.com/dlcifuentesl/UrbanRadioCober.git
 
